@@ -1,8 +1,8 @@
-package ex2;
+package ex2and3;
 
 import java.util.List;
 
-public class Student {
+public class Student implements Comparable<Student>{
 
     private int StudentNo;
     private String name;
@@ -39,10 +39,33 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student{" +
-                "StudentNo=" + StudentNo +
-                ", name='" + name + '\'' +
-                ", grades=" + grades +
-                '}';
+        return "Student: " +
+                "StudentNo = " + StudentNo +
+                "; Name = '" + name + '\'' +
+                "; Grades = " + grades +
+                '\n';
     }
+
+    @Override
+    public int compareTo(Student s) {
+        return Integer.compare(this.StudentNo, s.getStudentNo());
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
+        if (o instanceof Student) {
+            Student other = (Student) o;
+            return this.StudentNo == other.StudentNo;
+        }
+        return false;
+    }
+
+    @Override
+    public int hashCode() {
+        return StudentNo;
+    }
+
 }
