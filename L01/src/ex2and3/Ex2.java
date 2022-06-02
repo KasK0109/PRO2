@@ -16,7 +16,7 @@ public class Ex2 {
         int sum = power(n, p);
         System.out.println("The sum of n^p: " + sum);
 
-        int sum2 = power(n, p);
+        int sum2 = power2(n, p);
         System.out.println("Sum 2: " + sum2);
     }
 

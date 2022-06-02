@@ -7,7 +7,21 @@
       <module fileurl="file://$PROJECT_DIR$/L03/L03.iml" filepath="$PROJECT_DIR$/L03/L03.iml" />
       <module fileurl="file://$PROJECT_DIR$/L04/L04.iml" filepath="$PROJECT_DIR$/L04/L04.iml" />
       <module fileurl="file://$PROJECT_DIR$/L05/L05.iml" filepath="$PROJECT_DIR$/L05/L05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L07/L07.iml" filepath="$PROJECT_DIR$/L07/L07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L11/L11.iml" filepath="$PROJECT_DIR$/L11/L11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L19/L19.iml" filepath="$PROJECT_DIR$/L19/L19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L20/L20.iml" filepath="$PROJECT_DIR$/L20/L20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L21/L21.iml" filepath="$PROJECT_DIR$/L21/L21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L22/L22.iml" filepath="$PROJECT_DIR$/L22/L22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L23/L23.iml" filepath="$PROJECT_DIR$/L23/L23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L24/L24.iml" filepath="$PROJECT_DIR$/L24/L24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L25/L25.iml" filepath="$PROJECT_DIR$/L25/L25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L26/L26.iml" filepath="$PROJECT_DIR$/L26/L26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L27/L27.iml" filepath="$PROJECT_DIR$/L27/L27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L28/L28.iml" filepath="$PROJECT_DIR$/L28/L28.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRO2.iml" filepath="$PROJECT_DIR$/PRO2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTest/UnitTest.iml" filepath="$PROJECT_DIR$/UnitTest/UnitTest.iml" />
     </modules>
   </component>
 </project>
